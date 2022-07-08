@@ -1,0 +1,28 @@
+[21:33:59.578][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:34:06.781][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:34:06.788][INFO]: - 'aquaculture' at version '1.18.2-2.3.7'
+[21:34:06.789][INFO]: - 'crafttweaker' at version '9.1.162'
+[21:34:06.789][INFO]: - 'createtweaker' at version '2.0.0.11'
+[21:34:43.593][INFO]: Started loading scripts for loader 'initialize'
+[21:34:44.279][INFO]: Compiling and executing scripts
+[21:34:44.357][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:34:44.499][INFO]: Execution for loader 'initialize' completed successfully
+[21:36:03.004][INFO]: Started loading scripts for loader 'crafttweaker'
+[21:36:03.030][INFO]: Compiling and executing scripts
+[21:36:03.605][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:36:03.611][INFO]: Loading file 'recipes.zs' with priority 0
+[21:36:03.649][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:gold_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:gold_upgraded_netherite_shield>'
+[21:36:03.650][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:phantom_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:phantom_upgraded_netherite_shield>'
+[21:36:03.651][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:fire_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:fire_upgraded_netherite_shield>'
+[21:36:03.651][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ender_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:ender_upgraded_netherite_shield>'
+[21:36:03.652][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:water_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:water_upgraded_netherite_shield>'
+[21:36:03.652][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:wither_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:wither_upgraded_netherite_shield>'
+[21:36:03.652][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:poison_upgraded_netherite_shield' that outputs: '<item:upgradednetherite:poison_upgraded_netherite_shield>'
+[21:36:03.654][INFO]: Removing 'crafting' recipes with output: 'com.blamejared.crafttweaker.api.item.MCItemStack@4c319f3b'
+[21:36:03.664][INFO]: Removing 'crafting' recipes with output: 'com.blamejared.crafttweaker.api.item.MCItemStack@9d821f67'
+[21:36:03.671][INFO]: Removing 'crafting' recipes with output: 'com.blamejared.crafttweaker.api.item.MCItemStack@8394fb7a'
+[21:36:03.680][INFO]: Removing 'crafting' recipes with output: 'com.blamejared.crafttweaker.api.item.MCItemStack@af5001f4'
+[21:36:03.688][INFO]: Removing 'crafting' recipes with output: 'com.blamejared.crafttweaker.api.item.MCItemStack@cca05fae'
+[21:36:03.695][INFO]: Removing 'crafting' recipes with output: 'com.blamejared.crafttweaker.api.item.MCItemStack@4c6d2ff3'
+[21:36:03.702][INFO]: Execution for loader 'crafttweaker' completed successfully
+[21:36:03.705][INFO]: This reload was made possible by Robijnvogel and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
